@@ -18,3 +18,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brokidev&show_icons=true&locale=en" alt="brokidev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brokidev&" alt="brokidev" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brokidev&show_icons=true&locale=en&layout=compact" alt="brokidev" width="44%" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=brokidev&show_icons=true&locale=en" alt="brokidev" width="49%"/></p>
