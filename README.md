@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brokidev&label=Profile%20views&color=0e75b6&style=flat" alt="brokidev" /> </p>
 
 
-- 🌱 I’m currently learning **BackEnd Development**
+- 🌱 I’m currently learning **Architectural Patterns**
 
 - 👨‍💻 All of my projects are available at [https://brokidev.com/](https://brokidev.com/)
 
