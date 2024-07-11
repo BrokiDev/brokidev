@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Architectural Patterns**
 
-- 👨‍💻 All of my projects are available at [https://brokidev.com/](https://brokidev.com/)
+- 👨‍💻 All of my projects are available at [https://bryantr.dev/](https://bryantr.dev/)
 
 - 💬 Ask me about **Front-End or Back-End**
 
