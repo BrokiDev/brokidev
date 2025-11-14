@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://bryantr.dev/](https://bryantr.dev/)
 
-- 💬 Ask me about **Front-End or Back-End**
+- 💬 Ask me about **Front-End or Back-End, Cloud Infrastructure, CI-CD pipelines, System Architecture**
 
 - 📫 How to reach me **bryantro855@gmail.com**
 
